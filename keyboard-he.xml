@@ -4,7 +4,7 @@
         Made by Yaron Gonen <yaron dot gonen at gmail dot com>
         Based on layout by Maxim Kouprianov <me@kc.vc>
     -->
-    <layout id="en">
+    <layout id="he">
         <row>
             <key fill="true">
                 <default display="Esc" action="escape" />
